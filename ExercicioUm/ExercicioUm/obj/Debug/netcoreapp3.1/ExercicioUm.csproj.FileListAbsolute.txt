@@ -1,0 +1,13 @@
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.exe
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.deps.json
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.runtimeconfig.json
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.runtimeconfig.dev.json
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.dll
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\bin\Debug\netcoreapp3.1\ExercicioUm.pdb
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.csprojAssemblyReference.cache
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.AssemblyInfoInputs.cache
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.AssemblyInfo.cs
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.csproj.CoreCompileInputs.cache
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.dll
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.pdb
+C:\ProgramasCSharp\ConceitoDeClasses\MembrosDeInstanciaEEstaticos\ExercicioUm\ExercicioUm\obj\Debug\netcoreapp3.1\ExercicioUm.genruntimeconfig.cache
